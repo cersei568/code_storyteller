@@ -64,8 +64,8 @@ Built with enterprise-grade architecture and modern AI capabilities, it showcase
 - Custom Prompts
 - Context Management
 
-👉 **Live Demo**: [Try the App](https://ebookwriter.streamlit.app/)  
-👉 **Source Code**: [GitHub Repository](https://github.com/cersei568/ebook_writer)  
+👉 **Live Demo**: [Try the App](https://codestoryteller.streamlit.app)  
+👉 **Source Code**: [GitHub Repository](https://github.com/cersei568/code_storyteller) 
 
 ### Screenshots
 
